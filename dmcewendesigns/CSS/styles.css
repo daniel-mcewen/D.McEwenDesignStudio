@@ -1,0 +1,23 @@
+body {
+  background-color: #28294a
+}
+
+img {
+  display: flex;
+  align-content: center;
+}
+
+.center > .logo img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%
+}
+
+.center > .coming-soon {
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 300;
+  font-size: 2em;
+  color: #ac3682
+}
